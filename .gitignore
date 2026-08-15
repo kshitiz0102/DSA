@@ -1,0 +1,6 @@
+# Local input/output files
+input.txt
+output.txt
+
+# Compiled C++ files
+*.exe
