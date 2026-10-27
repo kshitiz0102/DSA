@@ -36,7 +36,7 @@ This repository documents my problem-solving practice, implementation of core DS
 | 17 | Tries | ⬜ Not Started |
 | 18 | Advanced Strings | ⬜ Not Started |
 
-## 📂 Repository Structure
+##  Repository Structure
 
 
 
@@ -46,26 +46,9 @@ This repository documents my problem-solving practice, implementation of core DS
 - **Practice:** Striver's A2Z DSA Sheet
 - **Tools:** VS Code, Git, GitHub
 
-##  My Approach
 
-For each problem, I aim to:
 
-1. Understand the problem and its constraints.
-2. Work through examples and edge cases.
-3. Develop the logic before writing code.
-4. Implement and test the solution in C++.
-5. Analyze time and space complexity.
-6. Revisit problems that I find difficult.
 
-##  Progress Tracker
-
-- [ ] Complete the basics
-- [ ] Master sorting techniques
-- [ ] Practice arrays and binary search
-- [ ] Learn core data structures
-- [ ] Solve recursion and backtracking problems
-- [ ] Practice graphs and dynamic programming
-- [ ] Revise difficult problems
 
 ##  Resources
 
